@@ -153,79 +153,60 @@ Recall
 F1-Score
 📈 Results
 Logistic Regression
-Accuracy: 75.32%
-Demonstrated strong performance for binary classification.
+    Accuracy: 75.32%
+    Demonstrated strong performance for binary classification.
 Random Forest
-Accuracy: 73.38%
-Produced competitive prediction results with balanced performance.
+    Accuracy: 73.38%
+    Produced competitive prediction results with balanced performance.
 Key Findings
-Glucose level is one of the strongest indicators of diabetes.
-Higher BMI values are associated with increased diabetes risk.
-Age contributes significantly to diabetes occurrence.
-Feature correlations help identify critical health factors.
+    . Glucose level is one of the strongest indicators of diabetes.
+    . Higher BMI values are associated with increased diabetes risk.
+    . Age contributes significantly to diabetes occurrence.
+    . Feature correlations help identify critical health factors.
 
 📊 Power BI Dashboard
 
 An interactive Power BI dashboard was developed to visualize healthcare insights and support data-driven decision-making.
 
 Dashboard Features
-KPI Cards
-Total Patients
-Diabetic Patients
-Non-Diabetic Patients
-Average Age
-Average BMI
-Interactive Charts
-Age vs Diabetes Analysis
-BMI Distribution
-Glucose Impact Analysis
-Diabetes Outcome Distribution
-Correlation Insights
-Filters (Slicers)
-Age
-BMI
-Outcome
+1.KPI Cards
+2. Total Patients
+3. Diabetic Patients
+4. Non-Diabetic Patients
+5. Average Age
+6. Average BMI
+7. Interactive Charts
+8. Age vs Diabetes Analysis
+9. BMI Distribution
+10. Glucose Impact Analysis
+11. Diabetes Outcome Distribution
+12. Correlation Insights
+13. Filters (Slicers)
+14. Age
+15. BMI
+16. Outcome
 
 🚀 Future Improvements
 
 Potential enhancements for future versions include:
 
-Hyperparameter tuning
-Feature engineering
-Advanced ensemble models
-Streamlit web application deployment
-Real-time patient prediction interface
-Integration with healthcare databases
-📁 Repository Structure
-Diabetes-Risk-Analysis-Prediction/
-│
-├── data/
-│   └── diabetes.csv
-│
-├── notebooks/
-│   └── diabetes_analysis.ipynb
-│
-├── powerbi/
-│   └── diabetes_dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard_preview.png
-│
-├── requirements.txt
-│
-└── README.md
-📚 Learning Outcomes
+1. Hyperparameter tuning
+2. Feature engineering
+3. Advanced ensemble models
+4. Streamlit web application deployment
+5. Real-time patient prediction interface
+6. Integration with healthcare databases
 
 Through this project, I gained practical experience in:
 
-Data Cleaning and Preprocessing
-Exploratory Data Analysis
-Data Visualization
-Machine Learning Classification
-Model Evaluation
-Business Intelligence Reporting
-Power BI Dashboard Development
-Git and GitHub Project Management
+1. Data Cleaning and Preprocessing
+2. Exploratory Data Analysis
+3. Data Visualization
+4. Machine Learning Classification
+5. Model Evaluation
+6. Business Intelligence Reporting
+7. Power BI Dashboard Development
+8. Git and GitHub Project Management
 
 👩‍💻 Author
 
