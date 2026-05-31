@@ -1,4 +1,5 @@
 📊 Diabetes Risk Analysis & Prediction System
+
 📌 Project Overview
 
 The Diabetes Risk Analysis & Prediction System is a data analytics and machine learning project developed to analyze patient health data and predict the likelihood of diabetes. The project combines data preprocessing, exploratory data analysis (EDA), machine learning modeling, and business intelligence visualization to provide meaningful healthcare insights.
@@ -6,6 +7,7 @@ The Diabetes Risk Analysis & Prediction System is a data analytics and machine l
 The objective of this project is to identify important health factors associated with diabetes and build predictive models that can assist in early risk assessment. The project demonstrates a complete data analytics workflow, from raw data processing to interactive dashboard creation.
 
 🎯 Objectives
+
 Analyze diabetes-related health data.
 Identify factors that contribute to diabetes risk.
 Perform data cleaning and preprocessing.
@@ -15,9 +17,11 @@ Evaluate model performance using standard metrics.
 Create an interactive Power BI dashboard for data-driven insights.
 
 📂 Dataset
+
 The project uses the Pima Indians Diabetes Dataset, a widely used healthcare dataset for machine learning and predictive analytics.
 
 Dataset Features
+
 Feature	Description
 Pregnancies	Number of pregnancies
 Glucose	Plasma glucose concentration
@@ -45,7 +49,9 @@ Git
 GitHub
 
 🔄 Project Workflow
+
 1. Data Loading
+   
 The dataset was imported into Python using Pandas and examined through:
 
 Head()
