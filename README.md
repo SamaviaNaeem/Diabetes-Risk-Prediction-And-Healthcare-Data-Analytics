@@ -21,7 +21,6 @@ Create an interactive Power BI dashboard for data-driven insights.
 The project uses the Pima Indians Diabetes Dataset, a widely used healthcare dataset for machine learning and predictive analytics.
 
 Dataset Features
-
 Feature	Description
 Pregnancies	Number of pregnancies
 Glucose	Plasma glucose concentration
@@ -51,7 +50,7 @@ GitHub
 🔄 Project Workflow
 
 1. Data Loading
-   
+
 The dataset was imported into Python using Pandas and examined through:
 
 Head()
@@ -64,27 +63,20 @@ This step provided an understanding of the dataset structure and feature distrib
 2. Data Cleaning
 
 Several preprocessing techniques were applied:
-
 Missing Value Handling
-
 Missing and invalid values were identified and replaced using median values.
-
 Duplicate Removal
-
 Duplicate records were removed to improve data quality.
-
 Data Validation
-
 Medical attributes containing invalid zero values were corrected.
 
 Examples include:
-
 Glucose
 Blood Pressure
 Insulin
 BMI
-3. Exploratory Data Analysis (EDA)
 
+3. Exploratory Data Analysis (EDA)
 Exploratory Data Analysis was performed to identify patterns and relationships within the dataset.
 
 Visualizations Created
@@ -123,6 +115,7 @@ DiabetesPedigreeFunction
 Age
 Target Variable (Y)
 Outcome
+
 5. Machine Learning Model Development
 
 Two machine learning classification models were developed and evaluated.
@@ -170,6 +163,7 @@ Glucose level is one of the strongest indicators of diabetes.
 Higher BMI values are associated with increased diabetes risk.
 Age contributes significantly to diabetes occurrence.
 Feature correlations help identify critical health factors.
+
 📊 Power BI Dashboard
 
 An interactive Power BI dashboard was developed to visualize healthcare insights and support data-driven decision-making.
@@ -191,6 +185,7 @@ Filters (Slicers)
 Age
 BMI
 Outcome
+
 🚀 Future Improvements
 
 Potential enhancements for future versions include:
@@ -231,6 +226,9 @@ Model Evaluation
 Business Intelligence Reporting
 Power BI Dashboard Development
 Git and GitHub Project Management
+
 👩‍💻 Author
+
 Samavia Naeem
+
 Aspiring Data Analyst | AI & Machine Learning Enthusiast | Python | SQL | Power BI | Flutter Developer
